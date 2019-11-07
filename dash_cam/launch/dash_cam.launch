@@ -1,0 +1,3 @@
+<launch>
+	<node name="dash_cam_node" pkg="dash_cam" type="dash_cam_node" output="screen" />
+</launch>
